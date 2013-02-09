@@ -1,4 +1,5 @@
 {
-  some : 'other',
+  'some' : 'other',
   'super' : 'sweet',
-  contents : 'present'}
+  'contents' : 'present'
+}
